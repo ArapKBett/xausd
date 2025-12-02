@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  forex-bot:
+    build: .
+    container_name: arapb-forex-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+      - ./charts:/app/charts
+      - ./data:/app/data
+    networks:
+      - forex-network
+    healthcheck:
+      test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '1'
+          memory: 1G
+
+networks:
+  forex-network:
+    driver: bridge
+
+volumes:
+  logs:
+  charts:
+  data:
