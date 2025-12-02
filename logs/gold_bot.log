@@ -1,0 +1,92 @@
+2025-12-02 11:04:26 - ForexBot - [33mWARNING[0m - warning:69 - Redis connection failed: Error 111 connecting to localhost:6379. Connection refused.. Using in-memory cache.
+2025-12-02 11:05:32 - ForexBot - [33mWARNING[0m - warning:69 - Redis connection failed: Error 111 connecting to localhost:6379. Connection refused.. Using in-memory cache.
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - Yahoo Finance client initialized for Gold (XAUUSD)
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - PriceFetcher initialized
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - Yahoo Finance client initialized for Gold (XAUUSD)
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - 🚀 Initializing ArapB Gold Analysis Bot
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - Initializing Discord client...
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - Using Discord bot mode
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - Testing API connections...
+2025-12-02 11:05:41 - ForexBot - [32mINFO[0m - info:66 - Testing gold price data API...
+2025-12-02 11:05:49 - ForexBot - [31mERROR[0m - error:72 - No current price data available for gold
+2025-12-02 11:05:49 - ForexBot - [31mERROR[0m - error:72 - Failed to fetch live price
+2025-12-02 11:05:49 - ForexBot - [33mWARNING[0m - warning:69 - Price API returned no data
+2025-12-02 11:05:49 - ForexBot - [32mINFO[0m - info:66 - Testing gold news API...
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - Fetched 0 unique news articles for gold
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - ✅ News API working: 0 gold articles fetched
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - ✅ All components initialized successfully
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - 🔄 Starting main analysis loop...
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - 
+======================================================================
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - 📊 Starting Analysis Cycle #1
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - ⏰ Time: 2025-12-02 08:06:01 UTC
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 11:06:01 - ForexBot - [32mINFO[0m - info:66 - 📈 Fetching current gold price data...
+2025-12-02 11:06:04 - ForexBot - [31mERROR[0m - error:72 - No current price data available for gold
+2025-12-02 11:06:04 - ForexBot - [31mERROR[0m - error:72 - Failed to fetch live price
+2025-12-02 11:06:04 - ForexBot - [31mERROR[0m - error:72 - Failed to fetch current gold price
+2025-12-02 11:06:04 - ForexBot - [32mINFO[0m - info:66 - 
+⏳ Waiting 300 seconds until next analysis...
+2025-12-02 11:07:57 - ForexBot - [32mINFO[0m - info:66 - Shutdown signal received, stopping bot...
+2025-12-02 11:11:04 - ForexBot - [32mINFO[0m - info:66 - 
+======================================================================
+2025-12-02 11:11:04 - ForexBot - [32mINFO[0m - info:66 - 🛑 Shutting down ArapB Gold Analysis Bot
+2025-12-02 11:11:04 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 11:11:04 - ForexBot - [32mINFO[0m - info:66 - ✅ Shutdown complete
+2025-12-02 14:43:05 - ForexBot - [33mWARNING[0m - warning:69 - Redis connection failed: Error 111 connecting to localhost:6379. Connection refused.. Using in-memory cache.
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - Yahoo Finance client initialized for Gold (GC=F)
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - PriceFetcher initialized
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - Yahoo Finance client initialized for Gold (GC=F)
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - 🚀 Initializing ArapB Gold Analysis Bot
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - Initializing Discord client...
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - Using Discord bot mode
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - Testing API connections...
+2025-12-02 14:43:13 - ForexBot - [32mINFO[0m - info:66 - Testing gold price data API...
+2025-12-02 14:43:31 - ForexBot - [31mERROR[0m - error:72 - No current price data available for gold
+2025-12-02 14:43:31 - ForexBot - [31mERROR[0m - error:72 - Failed to fetch live price
+2025-12-02 14:43:31 - ForexBot - [33mWARNING[0m - warning:69 - Price API returned no data
+2025-12-02 14:43:31 - ForexBot - [32mINFO[0m - info:66 - Testing gold news API...
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - Fetched 0 unique news articles for gold
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - ✅ News API working: 0 gold articles fetched
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - ✅ All components initialized successfully
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - 🔄 Starting main analysis loop...
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - 
+======================================================================
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - 📊 Starting Analysis Cycle #1
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - ⏰ Time: 2025-12-02 11:43:39 UTC
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 14:43:39 - ForexBot - [32mINFO[0m - info:66 - 📈 Fetching current gold price data...
+2025-12-02 14:43:47 - ForexBot - [31mERROR[0m - error:72 - No current price data available for gold
+2025-12-02 14:43:47 - ForexBot - [31mERROR[0m - error:72 - Failed to fetch live price
+2025-12-02 14:43:47 - ForexBot - [31mERROR[0m - error:72 - Failed to fetch current gold price
+2025-12-02 14:43:47 - ForexBot - [32mINFO[0m - info:66 - 
+⏳ Waiting 300 seconds until next analysis...
+2025-12-02 14:43:53 - ForexBot - [32mINFO[0m - info:66 - Shutdown signal received, stopping bot...
+2025-12-02 14:48:48 - ForexBot - [32mINFO[0m - info:66 - 
+======================================================================
+2025-12-02 14:48:48 - ForexBot - [32mINFO[0m - info:66 - 🛑 Shutting down ArapB Gold Analysis Bot
+2025-12-02 14:48:48 - ForexBot - [32mINFO[0m - info:66 - ======================================================================
+2025-12-02 14:48:48 - ForexBot - [32mINFO[0m - info:66 - ✅ Shutdown complete
+2025-12-02 15:01:14 - ForexBot - [33mWARNING[0m - warning:69 - Redis connection failed: Error 111 connecting to localhost:6379. Connection refused.. Using in-memory cache.
+2025-12-02 15:01:17 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: GC=F
+2025-12-02 15:01:24 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: XAUUSD=X
+2025-12-02 15:01:29 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: XAU-USD
+2025-12-02 15:01:35 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: GCZ25.CMX
+2025-12-02 15:01:40 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: GC1!
+2025-12-02 15:01:44 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: GLD
+2025-12-02 15:01:49 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: IAU
+2025-12-02 15:01:55 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: XAUUSD
+2025-12-02 15:02:02 - ForexBot - [33mWARNING[0m - warning:69 - No alternative symbols worked, using default with fallback
+2025-12-02 15:02:02 - ForexBot - [32mINFO[0m - info:66 - Yahoo Finance client initialized for Gold (GC=F)
+2025-12-02 15:02:02 - ForexBot - [32mINFO[0m - info:66 - PriceFetcher initialized
+2025-12-02 15:02:02 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: GC=F
+2025-12-02 15:02:05 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: XAUUSD=X
+2025-12-02 15:02:07 - ForexBot - [32mINFO[0m - info:66 - Testing symbol: XAU-USD
+2025-12-02 15:02:09 - ForexBot - [32mINFO[0m - info:66 - 
+Gold Bot stopped by user

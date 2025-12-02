@@ -6,7 +6,7 @@ import signal
 
 from src.data.price_fetcher import PriceFetcher
 from src.data.news_fetcher import NewsFetcher
-from src.data.historical_data_manager import HistoricalDataManager
+from src.data.historical_data import HistoricalDataManager
 from src.analysis.fundamental.news_analyzer import NewsAnalyzer
 from src.signal.signal_generator import SignalGenerator
 from src.visualization.chart_plotter import ChartPlotter
